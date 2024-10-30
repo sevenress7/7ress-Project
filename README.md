@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Greseel HG you can call me Gress</h1>
+<h1 align="center">Hi 👋, I'm sevenress you can call me Ress</h1>
 
 - 🌱 I’m currently learning **ESX, Lua**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@7ress" target="_blank"><img align="center" src="https://cdn.discordapp.com/attachments/909751990723158058/1249725897808941137/Youtube_logo.png?ex=66685970&is=666707f0&hm=f8f3d0cfdb8f18a35923ba8e7dd633132de5cc4453075973954a0a306b242747&" alt="https://www.youtube.com/channel/UCTqPc4FBef-1y9tHTW3mgmw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@7ress" target="_blank"><img align="center" src="https://cdn.discordapp.com/attachments/909751990723158058/1301204756017975347/Youtube_logo.png?ex=6723a0dd&is=67224f5d&hm=fe9b8e31de55acd4905c3092164bd5d250d039e111c2fe3986141b086d607e13&" alt="https://www.youtube.com/channel/UCTqPc4FBef-1y9tHTW3mgmw" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sevenress.7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/7ress_s/" height="30" width="40" /></a>
 </p>
 
