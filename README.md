@@ -9,8 +9,8 @@
 </p>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ress-project&show_icons=true&locale=en&layout=compact" alt="7ress-project" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ress-project&show_icons=true&locale=en&layout=compact" alt="sevenress.7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7ress-project&show_icons=true&locale=en" alt="7ress-project" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7ress-project&show_icons=true&locale=en" alt="sevenress.7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ress-project&" alt="7ress-project" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ress-project&" alt="sevenress.7" /></p>
